@@ -1,0 +1,18 @@
+.section-2 {
+    display: flex;
+    flex-wrap: initial;
+    width: 100%;
+    background: rgba(128, 128, 128, 0.308);
+
+    >div {
+        padding: 1rem;
+    }
+
+    .Left {
+        width: 50%;
+    }
+
+    .right {
+        width: 40%;
+    }
+}
