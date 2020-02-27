@@ -1,0 +1,17 @@
+.btn {
+    display: block;
+    outline: none;
+
+    padding: .5rem .7rem;
+    font-size: .9rem;
+    font-weight: 100;
+    border-radius: .4rem;
+}
+
+.btn-primary {
+    margin: .7rem 0;
+    background: $secondary-color;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+}
